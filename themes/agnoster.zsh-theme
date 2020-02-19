@@ -233,8 +233,8 @@ build_prompt() {
   prompt_context
   prompt_dir
   prompt_git
-  prompt_bzr
-  prompt_hg
+#  prompt_bzr
+#  prompt_hg
   prompt_end
 }
 
